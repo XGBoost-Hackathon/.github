@@ -4,26 +4,25 @@ Meghbot is a smart, interactive chat application that offers AI assistance and a
 
 ## Installation
 Frontend:
-Install the xgboost-bcf23-frontend with npm. The project is in ReactJS.
+Install the ```xgboost-bcf23-frontend``` with npm. The project is in ReactJS.
 In the root directory, run the following commands:
 
-bash
-  npm install 
-  npm start
+```npm install```
+```npm start```
 
 
 BackEnd:
 For Backend we used Express JS and Django frameworks. Follow the instruction below to install them.
 
-Express JS - xgboost-bcf23-chatbot-backend
-bash
-  npm install
-  npm start
+Express JS - ```xgboost-bcf23-chatbot-backend```
 
-Django - xgboost-bcf23-backend
-bash
- pip install -r requirements.txt
- python manage.py runserver
+```npm install```
+```npm start```
+
+Django - ```xgboost-bcf23-backend```
+
+```pip install -r requirements.txt```
+```python manage.py runserver```
 
 ## Acknoledgements
 Due to time constraints, the complete product could not have been done. It has always a scope to extend further.
