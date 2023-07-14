@@ -4,8 +4,8 @@ Meghbot is a smart, interactive chat application that offers AI assistance and a
 
 ## Contents
 
- - [Installations](##Installation)
- - [Api References](##API Reference)
+ - [Installations](#Installation)
+ - [Api References](#API Reference)
  - [Extensions](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [Acknowledgements](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
