@@ -28,15 +28,10 @@ Django - ```xgboost-bcf23-backend```
 | Intention | API     |
 | :-------- | :------- |
 | AI response | openai |
-| :-------- | :------- |
 | Keyword Extraction | openai |
-| :-------- | :------- |
 | Story | openai |
-| :-------- | :------- |
 | Image-Text | Tesseract |
-| :-------- | :------- |
 | Voice | webkitSpeechRecognition |
-| :-------- | :------- |
 | Image search | openai |
 
 ## Acknoledgements
