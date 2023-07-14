@@ -34,5 +34,4 @@ Django - ```xgboost-bcf23-backend```
 | Voice | webkitSpeechRecognition |
 | Image search | openai |
 
-## Acknoledgements
-Due to time constraints, the complete product could not have been done. It has always a scope to extend further.
+Thank you!
