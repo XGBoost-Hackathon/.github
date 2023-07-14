@@ -27,7 +27,7 @@ Django - ```xgboost-bcf23-backend```
 ## APIs used
 | Intention | API     |
 | :-------- | :------- |
-| `AI response` | `openai` |
+| AI response | openai |
 
 
 ## Acknoledgements
