@@ -24,5 +24,11 @@ Django - ```xgboost-bcf23-backend```
 ```pip install -r requirements.txt```
 ```python manage.py runserver```
 
+## APIs used
+| Intention | API     |
+| :-------- | :------- |
+| `AI response` | `openai` |
+
+
 ## Acknoledgements
 Due to time constraints, the complete product could not have been done. It has always a scope to extend further.
