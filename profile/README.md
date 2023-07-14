@@ -1,7 +1,13 @@
-# Project Title
+# Meghbot
 
-A brief description of what this project does and who it's for
+Meghbot is a smart, interactive chat application that offers AI assistance and also peer-to-peer communication between individuals. But it's not only limited to sending and receiving texts, here one can communicate via voice, and extracting information from files can also carry the chat. It also offers a file-sharing platform that can be done between peers and can be broadcasted to all the connected users also. The system additionally offers a pdf generation tool, which can generate a book from a text prompt that includes texts and images.
 
+## Contents
+
+ - [Installations](##Installation)
+ - [Api References](##API Reference)
+ - [Extensions](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Acknowledgements](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Installation
 Frontend:
